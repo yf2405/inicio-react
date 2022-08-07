@@ -41,5 +41,6 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
+
   "homepage": "https://yf2405.github.io/inicio-react"
 }
